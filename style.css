@@ -1,0 +1,19 @@
+body {
+  background-color: antiquewhite;
+}
+.main-p {
+  text-align: center;
+  font-size: xx-large;
+}
+.img-container {
+  display: inline-block;
+}
+.img-p {
+  display: inline-block;
+}
+.goals-container {
+  padding: 0 250px 0 0;
+}
+.contact-container {
+  margin-top: 50px;
+}
